@@ -1,1 +1,3 @@
-console.log('abc hi')
+export default function() {
+  console.log('abc')
+}
